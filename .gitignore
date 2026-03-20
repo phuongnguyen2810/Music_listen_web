@@ -2,3 +2,7 @@
 alo
 # chung ta se bo qua tat ca cac file co duoi la .log
 *.log
+
+# bo qua file  abc.xyz nhung van muon giu myfile.xyz
+# se chi bỏ qua các file xyz trong  git repo
+/*.xyz
